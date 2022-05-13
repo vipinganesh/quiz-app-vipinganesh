@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is a way to handle data in React.js?",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "State & Props ", "isCorrect": true },
+      { "option": "Services & Components", "isCorrect": false },
+      { "option": "State & Services", "isCorrect": false },
+      { "option": "State & Component", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "When are the primitive data types in JavaScript?",
+    "questionType": "checkbox",
+    "answerOptions": [
+      { "option": "string", "isCorrect": true },
+      { "option": "boolean", "isCorrect": true },
+      { "option": "object", "isCorrect": false },
+      { "option": "array", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "List down all the lifecycle methods in React",
+    "questionType": "textInput",
+    "answerOptions": [{ "option": "componentDidMount", "isCorrect": true }
+    ]
+  },
+  {
+  "id": 4,
+    "question": "Should contexts be created outside the component in React.js?",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "Yes", "isCorrect": true },
+      { "option": "No", "isCorrect": false }
+    ]
+  },
+  {
+  "id": 5,
+    "question": "Which package lets us implement browser routing & navigation?",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "react-dom", "isCorrect": false },
+      { "option": "react-router-dom", "isCorrect": true },
+      { "option": "react-router", "isCorrect": false },
+      { "option": "react-dom", "isCorrect": false }
+    ]
+  }
+]
